@@ -1,0 +1,68 @@
+Deliverables :
+
+
+Working
+Wix Website
+
+A
+fully functional website hosted on Wix, including all pages (Home, About
+Us, Room Packages, Services, Contact Us, Show Rooms Gallery).
+Integrated
+shopping cart for room packages.
+Google
+Map embedded in the Contact Us page.
+
+Test
+Cases
+
+Detailed
+test cases for key modules (e.g., Room Packages page, Contact Us form,
+Shopping Cart).
+Separate
+test cases for mobile and browser versions.
+
+Site
+Map
+
+A
+clear, structured map of the website, showing all pages and their
+connections.
+
+Cost
+and Effort Model
+
+Estimated
+cost of the project and effort model to determine time and resources
+needed.
+Allocate
+hours per task based on team members and project complexity.
+
+Tom
+Planner Plan
+
+A
+detailed task breakdown using Tom Planner, with roles and
+responsibilities assigned to the group members.
+Daily
+tasks and milestones outlined.
+
+Daily
+Standups
+
+Regular
+stand-up meetings to track progress, discuss challenges, and ensure
+alignment.
+
+Final
+Presentation
+
+A
+demonstration of the final website on Friday, showcasing all
+functionalities.
+
+
+
+
+ 
+
+Plan then work
